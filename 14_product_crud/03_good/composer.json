@@ -1,0 +1,20 @@
+{
+    "name": "lameck/2207",
+    "autoload": {
+        "psr-4": {
+            "Lameck\\2207\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lameck2207",
+            "email": "mokualameck66@gmail.com"
+        }
+    ],
+    "require": {}
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "lameck/2207",
+    "autoload": {
+        "psr-4": {
+            "Lameck\\2207\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lameck2207",
+            "email": "mokualameck66@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+           "app\\": "./app" 
+        }     
+    }
+}
